@@ -1,0 +1,11 @@
+id_venda,data_venda,cliente,produto,categoria,quantidade,valor_unitario,desconto,status_pagamento
+1001,2026-10-01 08:30:15,Ana Silva,Notebook Dell Inspiron,Eletrônicos,1,4500.00,100.00,APROVADO
+1002,2026-10-01 09:12:00,Bruno Costa,Mouse Sem Fio Logitech,Acessórios,2,89.90,0.00,APROVADO
+1003,2026-10-01 10:45:22,Carla Mendes,Teclado Mecânico RGB,Acessórios,1,250.50,15.00,PENDENTE
+1004,2026-10-02 11:20:05,Daniel Oliveira,Monitor LG 29 UltraWide,Eletrônicos,1,1200.00,50.00,APROVADO
+1005,2026-10-02 14:05:40,Eduarda Lima,Cadeira Ergonômica,Móveis,1,850.00,0.00,CANCELADO
+1006,2026-10-02 16:50:30,Felipe Rocha,Fone de Ouvido Bluetooth,Acessórios,3,120.00,20.00,APROVADO
+1007,2026-10-03 09:00:10,Gabriela Santos,Mesa para Escritório,Móveis,1,450.00,0.00,APROVADO
+1008,2026-10-03 10:15:00,Heitor Souza,Webcam Full HD,Acessórios,2,199.90,10.00,APROVADO
+1009,2026-10-03 13:40:18,Isabela Alves,HD Externo 1TB,Armazenamento,1,320.00,0.00,PENDENTE
+1010,2026-10-03 17:22:11,João Pereira,SSD NVMe 500GB,Armazenamento,2,280.00,25.00,APROVADO
